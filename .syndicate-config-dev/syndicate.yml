@@ -1,0 +1,17 @@
+account_id: '905418349556'
+deploy_target_bucket: syndicate-education-platform-custom-sandbox-artifacts-sbox02/8258ac18/task01
+expiration: 2024-11-24T18:52:21+00:00
+extended_prefix_mode: true
+iam_permissions_boundary: arn:aws:iam::905418349556:policy/eo_role_boundary
+project_path: C:\Users\vippr\Documents\EPAM\AWS-Syndicate
+region: eu-central-1
+resources_prefix: cmtr-8258ac18-
+tags:
+  course_id: SEP_JAP_5
+  course_type: stm
+  student_id: 8258ac18
+  type: student
+temp_aws_access_key_id: ASIA5FTZDTP2M64BQE74
+temp_aws_secret_access_key: 6k4LCeFI8CRT5eR0mHCttVD1/gbbFYc4KeklmTav
+temp_aws_session_token: IQoJb3JpZ2luX2VjEFoaCXVzLWVhc3QtMSJHMEUCIBWDdJdcMB/mldW3g+/6Yz4LF8UPWIOfLt8fVgqNLTk5AiEAuN3KO6gcI0SRwIz6Qqie/zM0CtcgrWiWmrlejLI4RcMq7gII8///////////ARAAGgw5MDU0MTgzNDk1NTYiDEP7gOj5pOjBwwhUECrCAkzdV4tFgvQRxdkMohyuUEaD7Xrk3MuAx2lJl+V59hYQKN0LCyUUVGYtIYlaG4eZph35H/B9h2mSbVDJBsnftbUoEEQvv/DRvC5QFGci1TxgWWhdfwF7N6HYpj+WCQpDKlw1x+Kpsd5h6eS/QUxTzRBi16ngS8W354FfOtTYfeRCX2Dl7jOEcVSeaF5szqhe1TCDj4awZo34swGQPBhedhH8tGTPqYLMMVkj0gw4SSsIDiV4bKLtwU+7e2O+gWLFsf9Nj4+e1DWLpdHy1hskyaDipmE3hUCsOVOoRG/oaxf15iMSpDghLJbzWmjq7eIm7oEU3Qt2riQCAA9YdxOU1rqRxzY3YNDjg7I+QsiJUVPJAWZR21XrKv7SM3oMBZBycJ3xfcm/1vhHiryAZocbhP+TWQNF8YnQiq9RQUknbZ+1fEEw1c+NugY6nQHdXYhVlNoQszqyrCAWNPFtQhZIL9BV/GkyxreEE0EnC8mv70+4ksIDIaKFXo5vSlsAD6+pl8Zqcl6zIMbOG1AuleB9DTnaqSB+Br2so8QrVYqwkR1qlEFLi4zMUTRNM5OeYerSScsls8PhsDwEJh19Dpy6HuyIkBAy5qzJ62n4w9PP/AIp0mVgcLbcz0cG4OMeN2xY/DFwIyIr6BKh
+use_temp_creds: false
